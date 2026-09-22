@@ -99,6 +99,14 @@ Includes an interactive command-line inspired interface, modular navigation and 
 
 [Live website →](https://t0shiro94.github.io/portfolio/) · [Source code →](https://github.com/t0shiro94/portfolio)
 
+### [Professional Psychology Website](https://github.com/t0shiro94/sito_doc)
+
+Multi-page professional website built for a psychology practice, with responsive navigation, SEO metadata, structured data, contact flows and production-oriented deployment files.
+
+**HTML · CSS · JavaScript · Netlify**
+
+[Project repository →](https://github.com/t0shiro94/sito_doc)
+
 ---
 
 ## What I'm studying
